@@ -3,7 +3,6 @@
     "description": "This a simple way to use media files in laravel",
     "require": {
         "php": "^7.2.5|^8.0",
-        "laravel/framework": "^6.0",
         "intervention/image": "^2.7"
     },
     "license": "MIT",
